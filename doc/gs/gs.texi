@@ -2,7 +2,6 @@
 @comment %**start of header
 @setfilename gs.info
 @settitle Getting Started With PCB
-@setcontentsaftertitlepage
 @comment %**end of header
 
 @include ../version.texi
